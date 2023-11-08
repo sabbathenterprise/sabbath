@@ -22,14 +22,14 @@ const projectContent = {
       desc: "Software Developer",
     },
     {
-      featuredImg: "/team/team1.jpg",
-      title: "Dawit Mellese",
-      desc: "Software Developer",
+      featuredImg: "/team/team3.jpeg",
+      title: "Yohannes Alemu",
+      desc: "Office Engineer",
     },
     {
-      featuredImg: "/team/team1.jpg",
-      title: "Dawit Mellese",
-      desc: "Software Developer",
+      featuredImg: "/team/team2.jpeg",
+      title: "Biniyam G.Tsadik",
+      desc: "Marketing Manager",
     },
   ],
 };
