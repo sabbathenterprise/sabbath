@@ -46,7 +46,7 @@ export const projects = [
   },
 
   {
-    featuredImg: "/projects/Project3.jpg",
+    featuredImg: "/projects/Project3.jpeg",
     title: "Zenith Coffee Table",
     catagory: "Furniture",
     desc: "A coffee table that serves as the centerpiece of your living room, combining modern style with practicality.",
