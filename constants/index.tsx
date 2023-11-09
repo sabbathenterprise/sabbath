@@ -138,14 +138,14 @@ export const teams = [
     desc: "Software Developer",
   },
   {
-    image: "/team/team1.jpg",
-    label: "Dawit Mellese",
-    desc: "Software Developer",
+    image: "/team/team3.jpeg",
+    label: "Yohannes Alemu",
+    desc: "Office Engineer",
   },
   {
-    image: "/team/team1.jpg",
-    label: "Dawit Mellese",
-    desc: "Software Developer",
+    image: "/team/team2.jpeg",
+    label: "Biniyam G.Tsasdik",
+    desc: "Marketing Manager",
   },
   {
     image: "/team/team1.jpg",
