@@ -14,7 +14,7 @@ export const projects = [
     desc: " luxurious coastal estate that exudes elegance and offers stunning ocean views, perfect for refined living.",
   },
   {
-    featuredImg: "/projects/Project3.jpg",
+    featuredImg: "/projects/Project3.jpeg",
     title: "Zenith Sofa Collection",
     catagory: "Furniture",
     desc: "A sofa that represents the pinnacle of comfort, offering the highest quality in modern living room furniture.",
