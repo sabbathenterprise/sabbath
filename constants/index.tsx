@@ -58,10 +58,10 @@ export const projects = [
     desc: "A coffee table that serves as the centerpiece of your living room, combining modern style with practicality.",
   },
   {
-    featuredImg: "/projects/Project7.jpg",
-    title: "New Entry",
+    featuredImg: "/projects/Project7.jpg", 
+    title: "Wardrobe Collection",
     catagory: "Furniture",
-    desc: "A coffee table that serves as the centerpiece of your living room, combining modern style with practicality.",
+    desc: "Doorless wardrobe stylish and pracrical addition to any room.",
   },
 ];
 

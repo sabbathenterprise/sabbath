@@ -16,7 +16,7 @@ const heroContent = {
     img2: "/hero/Hero4.jpg",
     img3: "/hero/Hero5.jpg",
     img4: "/hero/Hero3.jpg",
-    img5: "/hero/Hero2.jpg",
+    img5: "/hero/Hero2.jpeg",
   },
 };
 
